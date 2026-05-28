@@ -1,0 +1,1 @@
+{"error":"exit status 255","output":"'n\ufffdS7\u003c\u0005XA\u0018\ufffdH' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n","success":false,"type":"exec_result"}
